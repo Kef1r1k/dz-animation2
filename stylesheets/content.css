@@ -1,0 +1,134 @@
+
+.face{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  background:url('../image/face1.png');
+  animation: face 3s steps(1) infinite;
+}
+.eyes{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  background:url('../image/face1.png');
+  animation: eyes 3s steps(1) infinite;
+}
+.mouth{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  background:url('../image/face1.png');
+  animation: mouth 3s steps(1) infinite;
+}
+
+@keyframes eyes{
+  0%{background-position: -640px 0px;}
+  50%{background-position: -800px 0px;}
+  75%{background-position: -960px 0px;}
+}
+@keyframes mouth{
+  0%{background-position: -160px 0px;}
+  50%{background-position: -320px 0px;}
+  75%{background-position: -480px 0px;}
+}
+
+.face2{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 40%;
+  top: 20%;
+  background:url('../image/face2.png');
+  animation: face 3s steps(1) infinite;
+}
+.eyes2{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 40%;
+  top: 20%;
+  background:url('../image/face2.png');
+  animation: eyes 3s steps(1) infinite;
+}
+.mouth2{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 40%;
+  top: 20%;
+  background:url('../image/face2.png');
+  animation: mouth 3s steps(1) infinite;
+}
+
+.face3{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  background:url('../image/face3.png');
+  animation: face 3s steps(1) infinite;
+}
+.eyes3{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  background:url('../image/face3.png');
+  animation: eyes 3s steps(1) infinite;
+}
+.mouth3{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  background:url('../image/face3.png');
+  animation: mouth 3s steps(1) infinite;
+}
+.face4{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 60%;
+  top: 20%;
+  background:url('../image/face4.png');
+  animation: face 3s steps(1) infinite;
+}
+.eyes4{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 60%;
+  top: 20%;
+  background:url('../image/face4.png');
+  animation: eyes 3s steps(1) infinite;
+}
+.mouth4{
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  left: 60%;
+  top: 20%;
+  background:url('../image/face4.png');
+  animation: mouth 3s steps(1) infinite;
+}
